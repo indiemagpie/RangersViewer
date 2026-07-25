@@ -22,6 +22,7 @@ Game resource viewer/editor for [Space Rangers HD](https://store.steampowered.co
 * Uses the game's own OKGF.dll for accurate color palettes
 * Dithering support for GI and GAI formats
 * HAI animation preview based on the game's software renderer
+* All issues present in ResEditor, WImage, and ShipViewer have been addressed
 
 ## Credits
 
