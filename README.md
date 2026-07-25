@@ -8,7 +8,7 @@ Game resource viewer/editor for [Space Rangers HD](https://store.steampowered.co
 
 </div>
 
-## Current Features
+## Current features
 
 * View and create game archives in PKG format
 * View and create game graphics in GI format
